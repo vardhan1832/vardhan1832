@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreevardhan Vardha</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/85329e168ee90afffca530a5d1a68f1ae71ed886090f92b0ae21baea0ddf8082/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a6d74714e7a4178636d6871645864794d6d39304d545931656e4e7a646e52364d584e6c596d52695a7a6c69656d746b6544567761435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vardhan1832&label=Profile%20views&color=0e75b6&style=flat" alt="vardhan1832" /> </p>
 
